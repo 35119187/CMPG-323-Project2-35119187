@@ -1,0 +1,33 @@
+## Ignore Visual studio generated files and folders
+
+## Ignore visual studio folders 
+
+/[Ll]ibrary
+/[Tt]emp
+/[Ii]dentity
+/[Bb]in
+/[Oo]bj
+/[Pp]roperties
+/[Dd]ebug
+/[Nn]etcoreapp3.1
+/[Vv]scode
+
+# SQL Server Generated files
+*.mdf
+*.ldf
+*.ndf
+
+## Visual Studio Generated files
+*.obj
+*.user
+*.json
+*.props
+*.targets
+*.cache
+*.cshtml
+*.ico
+
+## Nuget package generated files
+*.nuget.cache
+*.nurget.g.target
+*.nurget.g.props
